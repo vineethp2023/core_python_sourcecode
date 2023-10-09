@@ -1,4 +1,4 @@
 Hello, I am Vineeth P, I studied BCA and MCA
 I am passionate in Python  , PHP and Java
-I am also interested in DBMS and SQL I have appended this line . hi hi 
+I am also interested in DBMS and SQL I have appended this line . hi hi
 I like python Django and Springboot
